@@ -1,0 +1,65 @@
+What we will do for the first day.
+
+We will solely focus on HTML 
+
+Last Exercise of the day will be time recreating a document I made.
+
+OBJECTIVES
+
+Write simple HTML documents.
+Understand the difference between closing and self closing tags
+write tags with attributes
+Use MDN as a reference
+Given an image, write the corresponding HTML
+
+Tags: Usually has opening and closing tags, closing tags have a slash.
+
+Read this and use it as a reference : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+
+
+Notes:
+
+Learn to create to boilerplate for html
+
+The doctype just states that you are using HTML.
+
+html element is the root element, everything must me inside (it will always have one head and one body)
+
+Head provides general information, metadata and its titles and links to scripts and style sheets
+
+Body has all the contents of an html document.
+
+
+HEADINGS
+
+Headings are block elements (they get their own lines, Opposed to inlines)
+
+P Tags
+Paragraph tags (also block level, this is how you separate large chunks of texts).
+
+
+Inline tags
+
+Such as strong which bolds texts (doesn't force elements to a new line.)
+
+em tag, emphasis which italizes tags.
+
+LISTS
+
+Lists of its own doesnt do anything (needs items in the list.) (can change to roman numerals with css)
+
+We can also nest lists inside lists (fucking inception dawg).
+
+
+
+
+Stuff to do:
+
+Teach how to comment
+
+<!-- --> (also show how to command slash)
+
+title tag actually shows the thing that shows up when google searches.
+
+Show him new tags and 

@@ -1,0 +1,25 @@
+HTTP requests are basically users(clients) asking for a website from a server. Its all requests and responses. 
+
+The Holy Trinity of Front-end is HTML CSS AND JAVASCRIPT; backend is everything.
+
+Cool analogy: If websites were a restaurant, everything the customer interacts with is a the frontend. like the table plate and food. the order you send is the request that gets set into the backend. the backend is what grabs everything in the kitchen makes the stuff and send it to the front end. 
+
+What are their roles?
+
+HTML: 
+
+HyperText Markup Language
+It defines the structure of a webpage. (Put an image here, put a form here);
+The nouns of the page
+
+CSS:
+
+Cascading Style Sheets.
+Needs HTML. its there to support HTML and style. (Make text purple; give the first image a yellow border).
+the adjectives of a page
+
+ Javascript:
+
+ Adds logic and interactivity to a page (do math, change color when clicked, load data)
+ THE ACTIONS aka verbs of page
+ 
