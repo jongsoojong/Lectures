@@ -62,4 +62,36 @@ Teach how to comment
 
 title tag actually shows the thing that shows up when google searches.
 
-Show him new tags and 
+Show him new tags
+
+Do Exercise.
+
+
+
+
+
+
+
+
+Exercise 1:
+
+Remake the following 
+
+
+
+
+
+
+Divs:
+
+Generic container for elements
+
+Groups things togther
+
+
+Span:
+
+Also a generic container
+
+But its not a block level. So if you want to style just a part of p or stuff use span.
+
