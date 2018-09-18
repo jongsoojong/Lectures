@@ -95,3 +95,14 @@ Also a generic container
 
 But its not a block level. So if you want to style just a part of p or stuff use span.
 
+
+
+Attributes:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+Adding additional Information to Tags
+
+Images there is no opening and closing tags and requires a source an image src
+
+href requires a url. Relational and non-relational (use http for non-relational)

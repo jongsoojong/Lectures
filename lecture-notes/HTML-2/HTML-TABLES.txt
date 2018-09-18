@@ -1,0 +1,7 @@
+MDN TABLES -> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+HTML tables are element tags that make tables.
+
+Not required, but you should put the headers in a thead and the body of the table in a tbody which is all enclosed in table tags.
+
+Each row is signified with a <tr> tag. and each segment in that row is signified by a <td> tag. A header section has a <th> instead of a <td>
