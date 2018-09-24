@@ -1,0 +1,12 @@
+You will remake the example png in a html file with all the boilerplate and correct things
+
+Notes:
+
+I named the title as the tags so you wont get confused. Use them as a reference for the title tag without the reference.
+
+Also note the title of the page; dont forget that
+
+Use any image from google images. right-click and copy image address.
+
+make sure the link on the bottom actually goes to google.
+
