@@ -1,0 +1,28 @@
+Form Tags (wont do shit until we have a backend)
+
+Form tags cover the entire form section.
+
+two important attritubes, action and method. 
+
+input tag
+
+Creates differnet type of input 
+
+LINK -> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+Examples use color, email, date, password, etc. 
+
+Radio buttons
+
+input tags can be given name attributes to get query string on the url. this can be used later for backwend things. 
+
+Labels 
+
+Labels labels the fucking options in our form. Two ways we can do this, either nesting the input in a label tag or using the for attribute (this is waht we do in aql) MAKE SURE THE INPUTS HAVE IDs THAT MATCH THE FOR ATTRIBUTE.
+
+
+Validations
+
+To keep certain rules in forms. Minimal charactesr for passwords and usernames; or they follow a
+ruleset. or is required.
+
