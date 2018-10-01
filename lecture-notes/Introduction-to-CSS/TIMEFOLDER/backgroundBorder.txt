@@ -1,0 +1,22 @@
+Background - 
+
+Property used to change the color or image of the background of the selected HTML element
+
+background: (color goes here); changes just the color of the entire background
+
+background-image: url(url goes here); will set the background of the HTML element to an image. Generally used for the body element.
+
+If image is incorrect size and "tiling" occurs:
+
+background-repeat: no-repeat;  - will prevent tiling
+
+background-size: cover;  - will stretch the image to cover the entire background.
+
+
+Borders - 
+ 
+3 main properties of borders: Style, Color, Width (must have all 3 to function) 
+
+/* If I am not mistaken you can set color and the width and style will have default vaules assigned to them */
+
+While each property of border can be set individually via border-(insert property here), since all three are often set at the same time you can simply use the property "border:" and set all the parameters separated by a space.

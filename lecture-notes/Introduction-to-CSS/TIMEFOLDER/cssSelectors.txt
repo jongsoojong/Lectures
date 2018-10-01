@@ -1,0 +1,30 @@
+Selectors simply state which html element you are going to apply the CSS to.
+
+Element selctors will select every instance of a given element 
+
+I.E. div {
+	background: black;
+}
+ - this will select all div elements within the body tag and set their background to the color black.
+
+ ID - selects a single element with the corresponding ID attribute you have given the html element. Each ID is unique and can only appear 1 time per page
+
+  I.E. #(insert ID name here){
+blah: blah;
+  }
+
+  Class - just like ID but used for groups of elements you want to change at the same time. Can appear multiple times per page.
+
+  I.E. .(insert class name here){
+   blah: blah;
+  }
+
+  List of some advanced CSS selectors https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+
+  Inheritance - If a element is styled and no specific styling is stated for elements nested within, all nested elements receive the CSS of the parent element that was selected. 
+
+  Specific trumps general. The more specific the more priority.
+
+  Type seletors are least specific, id selectors are most specific
+  I.E type<class<id

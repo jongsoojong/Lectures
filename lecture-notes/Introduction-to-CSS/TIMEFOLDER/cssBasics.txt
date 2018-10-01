@@ -1,0 +1,31 @@
+CSS Basics:
+
+- CSS = Cascading Style Sheet
+
+- Laguage is used to describe how a websites HTML elements look (i.e. color, shape, placement)
+
+  (csszengarden.com for examples on differnet things you can do with css)
+
+- General rule for CSS formatting:
+	selector {
+	property: value;
+	anotherProperty: value;
+	}
+
+- Selector: designates a HTML element
+
+- Property: assigns a property to the selected HTML element while Value = the parameters of the property that was assigned
+
+2 Ways to Write CSS:
+
+- Inline: used to be the only way to style HTML elements before CSS. Generally a bad idea for a few reasons:
+	1. Each element must be styled individually. This can be tedious and a nightmare when dealing with hundreds of the same elements and it comes time for adjustments
+
+	2. We want to keep our styles(CSS) and structures(HTML) in separate, self contained files.
+
+	3. Google will tell you to fuck right off if you do this. (from what I remember from AQL)
+
+- Style Tag: A tag inside the head tag of the HTML doc. Allows you to use CSS syntax inside the HTML file. Much better than inline although you still want to write your CSS in a separate file and link that to the HTML file inside the head tag
+
+* In the videos at this section it is touched upon what happens when 2 different CSS statements select the same HTML element (hint: the one that comes last wins)
+

@@ -1,0 +1,19 @@
+There are different ways to refer to color with CSS. It is rather rare that the base colors like red, blue, green, etc are going to be used. There will be almost always be specific shades of colors you will use.
+
+Base colors are useful for quick debugging applications.
+
+CSS has ~147 different named colors built into the language. 
+(colours.neilorangepeel.com
+
+Problem with named colors is that they are locked in to that color so if you want something close but not quite one of the named color options. You can't use a built in color name, which brings us to...
+
+Color systems used in CSS
+
+Hexadecimal - # + string of 6 hexadecimal #'s (from 0-F)
+ - broken up into 3 sets of digits after the #. 
+ - 1st is how much red, 2nd how much green, 3rd how much blue
+
+ RGB - Base 10 unlike Hex(base16). Written rgb(0,0,0)
+ - Each # has a value of 0 - 255 with the first position being red, the second green, and the thrid blue
+
+ RGBA - Just like RGB but with a 4th positon that ranges from 0.0 - 1.0 and governs color transparency.
