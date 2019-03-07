@@ -1,0 +1,21 @@
+Section 6 notes 
+
+Text and Fonts
+
+No guaranteed way of knowing full list of fonts available as they differ from machine to machine.
+
+Cssfontstack.com
+
+Some fonts are almost universal and are more commonly chosen in order to maximize compatibility.
+
+Fonts that have #'s in front of the name are not valid css lines on their own and must be put in "" i.e. 19 Arial is "19 Arial"
+
+Font-family - grouping of similar fonts 
+
+Font-size - literall the size of the text as it appears on screen. Can be used in both hard and relative terms. 
+	PX is a hard value and will be displayed as such unless overruled by something more specific. 25px = 25 pixels no matter what screen. 
+
+	EM is relative to the font size of the parent element. If no font size was set then it becomes the browser default value. (Chrome = 16px so 1em would = 16px)
+
+
+Font-weight - how thick the lines are / how heavy the text appears on screen.

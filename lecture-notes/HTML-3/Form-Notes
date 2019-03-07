@@ -23,6 +23,6 @@ Labels labels the fucking options in our form. Two ways we can do this, either n
 
 Validations
 
-To keep certain rules in forms. Minimal charactesr for passwords and usernames; or they follow a
+To keep certain rules in forms. Minimal characters for passwords and usernames; or they follow a
 ruleset. or is required.
 
