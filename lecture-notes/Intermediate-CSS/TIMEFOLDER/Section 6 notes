@@ -18,4 +18,38 @@ Font-size - literall the size of the text as it appears on screen. Can be used i
 	EM is relative to the font size of the parent element. If no font size was set then it becomes the browser default value. (Chrome = 16px so 1em would = 16px)
 
 
-Font-weight - how thick the lines are / how heavy the text appears on screen.
+Font-weight - how thick the lines are / how heavy the text appears on screen. Font weight can be set with numeric vaules as well. Every 100th number starting with 100 and ending with 800 is valid (i.e. 100,200,300,etc)
+
+
+Line Height - Controls the height of the line of text. Using the "line-height" command, the numeric vaule multiplies the current line height by that much. The current line height being defined by the font size.
+
+Text-align - Aligns text within the element its nested in. Text can be aligned to left, center, or right of the hosting element.
+
+Text-decoration - Used to give text an underline, overline, strikethrough, etc.
+
+
+
+GOOGLE FONTS
+------------
+
+A freet tool google offers to include customizable fonts. Customization options include weight and italics.
+
+A note about using google fonts is that the more fonts/ weights of a font you include the greater the impact on the page load speed as the site must make multiple requests to google for the fonts.
+
+
+
+BOX MODEL
+---------
+
+Every element has a rectangular box around it. Understanding this will aid you greatly in positioning with CSS.
+
+4 parts of every box that can be manipulated:
+Content (width and height), Padding, Border, Margin
+
+Width and Height can be manipulated via pixel or %. If percentage is used the % is based of whatever the parent element is. % is great for dynamic sizing.
+
+Padding is the space between the content and the border. Padding can be broke down to left top right bottom just as border can.
+
+Margin is the space between elements. Can be manipulated like padding and border can.
+
+
