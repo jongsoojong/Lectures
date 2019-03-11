@@ -1,0 +1,17 @@
+Section 7 Notes
+---------------
+
+Bootstrap
+---------
+
+Bootstrap is a tool for developing responsive mobile first web projects. I.E. Make great looking sites quickly.
+
+Bootstrap, if used well, makes it hard to tell that someone was using bootstrap. 
+
+Bootstrap comes with preset styles in the included css files, but the styles can be overwritten by writing your own styles targeting the classes bootstrap comes with.
+
+Jumbotron - used to display key content on your site. Takes up large amounts of space. Jumbotron will take up 100% width of whatever it is contained in unless styled otherwise. (div class="container")
+
+Forms - take various types of information. Can be styled in a billion different ways. Important classes are form-group, form-inline, and form-control. Form-group provides proper spacing of the various form elements. Form-control essentially "bootstrapifies" the various elements inside the form. Wrapping a form inside a tag with form-inline will be forced in-line. 
+
+Containers - a nice way to quickly get quality spacing of elements on the page.
