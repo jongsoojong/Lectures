@@ -15,3 +15,22 @@ Jumbotron - used to display key content on your site. Takes up large amounts of 
 Forms - take various types of information. Can be styled in a billion different ways. Important classes are form-group, form-inline, and form-control. Form-group provides proper spacing of the various form elements. Form-control essentially "bootstrapifies" the various elements inside the form. Wrapping a form inside a tag with form-inline will be forced in-line. 
 
 Containers - a nice way to quickly get quality spacing of elements on the page.
+
+Navbars - default styling for navigation bar elements. Requires jquery and bootstrap js in order for anything to actually work. Important class is (class="collapse navbar-collapse"). Anything inside the navbar with that class applied either directly or inherited will collapse automatically once mobile size has been reached on screen.
+The hamburger button is applied with 3 spans being styled into bars inside of a button. The key thing about the button is the data-target selector. Whatever id is in the data-target selector will be hidden and shown upon clicking the button. The # is not needed on subsequent ids, you need only match the exact spelling and syntax.
+
+
+Grid System - The main reason people use bootstrap. Allows for easy layouts of the entire site that is mobile friendly. 12 is the key # here, every container can be divided into 12 units, and they can be nested within each other to further divide those units. 
+
+<img src="https://source.unsplash.com/AUYr7ptqSRQ">
+<img src="https://source.unsplash.com/8ZZt-XhJ_RQ">
+<img src="https://source.unsplash.com/eSNjFDbw_i4">
+<img src="https://source.unsplash.com/CN_42yx-2Xo">
+<img src="https://source.unsplash.com/zhUzdTgtRP8">
+<img src="https://source.unsplash.com/VrrZAVkzfWE">
+<img src="https://source.unsplash.com/33Ek-vzSw40">
+<img src="https://source.unsplash.com/4qQolDX6eSw">
+<img src="https://source.unsplash.com/T-a8zcXigq4">
+
+dark blue #2c3e50
+light gray #ecf0f1
