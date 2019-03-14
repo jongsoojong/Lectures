@@ -33,4 +33,14 @@ Grid System - The main reason people use bootstrap. Allows for easy layouts of t
 <img src="https://source.unsplash.com/T-a8zcXigq4">
 
 dark blue #2c3e50
-light gray #ecf0f1
+light gray 
+
+
+
+Bootstrap 4 specifics -
+
+Flexbox - new system of positioning elements that eliminates messier tools of the past such as float.
+
+5 sizings for columns - xs,sm,md,lg,xl
+
+All available changes are in the boostrap docs online.
