@@ -44,3 +44,26 @@ Flexbox - new system of positioning elements that eliminates messier tools of th
 5 sizings for columns - xs,sm,md,lg,xl
 
 All available changes are in the boostrap docs online.
+
+Bootstrap 4 Typography
+----------------------
+
+Display - resizes various elements (h1 in the video) and gives them more prominence on the page.
+
+Blockquotes - now uses a class to style text into a block quote <blockquote class="blockquote"></blockquote>
+
+Cite is now used instead of a footer that was used in bootstrap 3.
+
+To reverse the block quote just add text-right to the class.
+
+rem - root em (pronounced m) replaces pixel for sizing. Default root size is 16px for google. rem is a multiplier so should the root font size change, the text will adjust in scale automatically. Not as rigid as px.
+
+Utilties
+--------
+
+Border - a class that auto adds a border to an element. A border can be subjtracted in case you have a border applied from your own styling using border-0. You can remove specific sides of the border however a full border must be there by default in order for this to work. Color can be changed in the same manner as text via the default text color classes. You can add easy round edges and even have a circle border using border-rounded.
+
+Spacing - contains classes for both margin and padding. p or m is used for padding and margin respectively. You can then add a letter (t,l,r,b,x,y) for what sides you want the spacing applied to. 0 - 5 are used to determine the amount of spacing or padding being applied to the element. All spacing is based off of rems as well. Breakpoints can be adjusted using either p or m to target what you are trying to change, then the sides you want the style on, then the size of the screen you want the change to be applied to. The screen size will set the amouunt of either p or m you want to change at that size and up.
+
+
+
