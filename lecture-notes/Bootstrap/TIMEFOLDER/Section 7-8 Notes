@@ -65,5 +65,5 @@ Border - a class that auto adds a border to an element. A border can be subjtrac
 
 Spacing - contains classes for both margin and padding. p or m is used for padding and margin respectively. You can then add a letter (t,l,r,b,x,y) for what sides you want the spacing applied to. 0 - 5 are used to determine the amount of spacing or padding being applied to the element. All spacing is based off of rems as well. Breakpoints can be adjusted using either p or m to target what you are trying to change, then the sides you want the style on, then the size of the screen you want the change to be applied to. The screen size will set the amouunt of either p or m you want to change at that size and up.
 
-
+Flexbox - Allows for positioning of elements in bootstrap 4. Positions are referenced with 2 axis. Main axis is left to right and cross axis is top to bottom. justify-content targets the main axis and align-items targets the cross axis. 
 
