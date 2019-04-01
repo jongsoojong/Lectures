@@ -1,0 +1,17 @@
+Section 9 (starting this a little after)
+
+Navs
+----
+
+Everything with navigation has a class now in bootstrap 4. You can ditch the ul>li>a structure if order does not matter to you and use a new nav element
+
+Display : flex or d-flex is enabled by default so you can add classes that move things around without having to apply display : flex to it. 
+
+Grid System from bootstrap 4
+----------------------------
+
+New breakpoints for screen size. xs in bootstrap 4 is less than 576px as opposed to 768px in 3.
+
+Xtra small is the default size and everything is applied from that upward. Any changes to layout need to be applied to the sm size upward.
+
+col is still used albeit with the new screen size definistions. Setting the class to "col" will make your elements split all the available space evenly.
