@@ -1,6 +1,6 @@
 Lent Coding Tracker -
 
-Hour 1: Today I spent the first hour going over the last lesson in the css selectors section. I reviewd the solution video to the exercise and corrected the mistaks I had (only 2). Then I continued into the Intermediate CSS section which kicked off with Text and Fonts.
+Hour 1: Today I spent the first hour going over the last lesson in the css selectors section. I reviewd the solution video to the exercise and corrected the mistakes I had (only 2). Then I continued into the Intermediate CSS section which kicked off with Text and Fonts.
 
 Hour 2: I finished up with font weight and various other manipulations of text and moved into positioning. After the lesson I attempted the tic tac toe challenge solo at first. I was unable to get the horizontal lines to show up at first but when I watched the solution video I was pleased to see I was not far off and only made a mistake by not remembering something I learned earlier in the lessons.
 
@@ -26,3 +26,5 @@ Hour 11: Did 4 hours today to make up for missing earlier this week. I was sick 
 Hour 12: 2 for missing yesterday. Focused mainly on flexbox.
 
 Hour 13: will be doing 2 a day to make up for lost hours. Spent the time messing with the grid system inside bootstrap 4. I should be done with it within the next few days and moving on to JS.
+
+Hour 14: 2 hours today. Went thru the pattern project. Spent a good 20 mins at the end trying to find why my cards were touching my jumbotron only to realize I left the "o" off of jumbo. Ah the magic of syntax and spelling.
