@@ -1,0 +1,48 @@
+Notes
+
+// Numbers
+9
+-4.3
+10
+
+// Strings
+"What up Jong"
+"Coding can be frustrating, but also fun"
+
+// Booleans
+true
+false
+
+//Null and Undefined
+null
+undefined
+
+
+
+Concatenation: combining two strings together via + sign
+
+
+Built in JavaScript methods
+
+// alert
+// prompt
+// console.log
+// clear()
+
+Boolean Comparison Operators
+
+> // Greater than
+>= // Greater than or equal to
+< // Less than
+<= // Less than or equal to
+== // Equal to
+!= // Not equal to
+=== // Equal value and type
+!== // Not equal value and type
+
+
+Logical Operators
+
+&& // And
+|| // Or
+! // Not

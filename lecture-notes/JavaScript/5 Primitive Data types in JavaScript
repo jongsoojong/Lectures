@@ -1,0 +1,30 @@
+5 Primitive Data types in JavaScript
+
+// Numbers
+9
+-4.3
+10
+
+// Strings
+"What up Jong"
+"Coding can be frustrating, but also fun"
+
+// Booleans
+true
+false
+
+//Null and Undefined
+null
+undefined
+
+
+
+Concatenation: combining two strings together via + sign
+
+
+Built in JavaScript methods
+
+// alert
+// prompt
+// console.log
+// clear()
